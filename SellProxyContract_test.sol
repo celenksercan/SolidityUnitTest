@@ -7,7 +7,7 @@ import "remix_tests.sol";
 
 // This import is required to use custom transaction context
 // Although it may fail compilation in 'Solidity Compiler' plugin
-// But it will work fine in 'Solidity Unit Testing' plugin
+// Unit testing for Solidity with hebys
 import "remix_accounts.sol";
 import "../Proxy/SellProxyContract.sol";
 
